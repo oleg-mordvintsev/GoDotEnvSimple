@@ -2,7 +2,7 @@
 
 ## Начало работы
 
-- Загрузите необходимый репозиторий `go get -u github.com/oleg-mordvintsev/go-dot-env-simple/v1.0.3`.
+- Загрузите необходимый репозиторий `go get -u github.com/oleg-mordvintsev/go-dot-env-simple/v1`.
 - Подключите в проекте
 
 ```go
