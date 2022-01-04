@@ -7,7 +7,7 @@
 
 ```go
 import (
-env "github.com/oleg-mordvintsev/GoDotEnvSimple"
+    env "github.com/oleg-mordvintsev/GoDotEnvSimple"
 )
 ```
 
