@@ -2,12 +2,12 @@
 
 ## Начало работы
 
-- Загрузите необходимый репозиторий `go get -u github.com/oleg-mordvintsev/GoDotEnvSimple`.
+- Загрузите необходимый репозиторий `go get -u github.com/oleg-mordvintsev/go-dot-env-simple/v1.0.2`.
 - Подключите в проекте
 
 ```go
 import (
-    env "github.com/oleg-mordvintsev/GoDotEnvSimple"
+    env "github.com/oleg-mordvintsev/go-dot-env-simple"
 )
 ```
 
