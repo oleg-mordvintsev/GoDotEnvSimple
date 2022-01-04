@@ -12,7 +12,7 @@ func Get(key string) string {
 	return env[key]
 }
 
-func Bool(key string) bool {
+func GetBool(key string) bool {
 	if env[key] == "1" || strings.ToLower(env[key]) == "true" {
 		return true
 	}
