@@ -24,7 +24,7 @@ env.Get("NAME_ENV_CONST")
 - Одно булево значение в .env
 
 ```go
-env.GetBool("IS_TEST")`
+env.Bool("IS_TEST")`
 ```
 
 - Проверка существования значения в .env
