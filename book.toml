@@ -1,0 +1,8 @@
+[book]
+authors = ["oleg-mordvintsev"]
+language = "en"
+multilingual = false
+title = "Go Dot Env Simple"
+
+[output.html]
+git-repository-url = "https://github.com/oleg-mordvintsev/GoDotEnvSimple"
