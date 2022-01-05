@@ -1,3 +1,3 @@
-module github.com/oleg-mordvintsev/go-dot-env-simple/v1.0.4
+module github.com/oleg-mordvintsev/go-dot-env-simple
 
 go 1.17
